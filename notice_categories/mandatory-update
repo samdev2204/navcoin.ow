@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Mandatory Update | NavCoin - An Easy To Use Decentralized Cryptocurrency</title>
+    <meta name="author" content="NavCoin">
+    <meta name="description" content="NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy." />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TGRT2RZ');</script>
+    
+    <meta name="google-site-verification" content="hiuSpo_2DJbL4agTuGzmasRuOdIJ50t31-eSsalEaHQ" />
+    
+    <link rel="shortcut icon" href="/images/favicon-1.png">
+    
+
+    
+    <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:769301,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500|Roboto:400,500|Source+Sans+Pro" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href='/css/bootstrap.min.css'>
+
+    
+    <link rel="stylesheet" href='/css/font-awesome.min.css'>
+
+    
+    <link rel="stylesheet" href='/css/style.css'>
+
+    
+    <link rel="stylesheet" href='/css/nav.css'>
+
+    
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" media="screen" />
+
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="NavCoin">
+    <meta property="twitter:description" content="NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy." />
+    <meta property="twitter:image" content="https://navcoin.org/images/sharing-image.jpg" />
+
+    
+    <meta property="og:site_name" content="NavCoin">
+    <meta property="og:title" content=" Mandatory Update | NavCoin - An Easy To Use Decentralized Cryptocurrency" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://navcoin.org/en/notice_categories/mandatory-update/" />
+    <meta property="og:image" content="https://navcoin.org/images/sharing-image.jpg" />
+    <meta property="og:description" content="NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy." />
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGRT2RZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "NavCoin",
+          "url": "https://navcoin.org/",
+          "logo": "https://navcoin.org/images/nav_blue-trend.png",
+          "sameAs": [
+            "https://www.facebook.com/NAVCoin/",
+            "https://twitter.com/NavCoin",
+            "https://www.youtube.com/NavCoinCore",
+            "https://github.com/NAVCoin"
+          ]
+        }
+        </script>
+</head>
+
+
+<body data-spy="scroll" data-target="#header-menu">
+
+  <script>
+    function toggleMenu(event) {
+        const menu = document.querySelector('#navigation-bar');
+        menu.classList.toggle('show-menu');
+    }
+</script>
+
+
+<header class="stickey">
+  <nav class="main-menu">
+      <div class="nav-container">
+        
+        <div class="navbar-header">
+          <div class="logo-brand">
+              <a href="/en/">
+              <img src="https://d33wubrfki0l68.cloudfront.net/b0a72158f66b4a3e7c2cb3ac279895119b22da03/e3190/images/navcoin-header.svg" alt="navcoin logo" class="header-img">               
+            </a>
+          </div>
+            <div class="hamburger-icon" onclick="toggleMenu()">
+              <img src="https://d33wubrfki0l68.cloudfront.net/418f1bb8265fdc2b32d4a0dc80b23f9a7aae2065/90efb/images/hamburger-menu.svg"/>
+            </div>
+        </div>
+        
+        <div class="regular-menu-container">
+            <nav>
+    <ul id="navigation-bar">
+        
+        
+            
+                <li class="  nav-dropdown">
+                    <span class="menu-item nav-top-item">
+                        
+                        <span class="name">Get Started</span>
+                        <span class="arrow"></span>
+                    </span>
+                    <ul class="sub-menu">
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/why-navcoin/">Why NavCoin
+                                </a>
+                            
+                            </li>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/governance/">Governance
+                                </a>
+                            
+                            </li>
+                            
+                                <div class="hr-container">
+                                    <hr>
+                                </div>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/for-individuals/">For Individuals
+                                </a>
+                            
+                            </li>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/for-developers/">For Developers
+                                </a>
+                            
+                            </li>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/for-business/">For Businesses
+                                </a>
+                            
+                            </li>
+                            
+                                <div class="hr-container">
+                                    <hr>
+                                </div>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/buy-navcoin/">Buy NavCoin
+                                </a>
+                            
+                            </li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+            
+                <li class="  nav-dropdown">
+                    <span class="menu-item nav-top-item">
+                        
+                        <span class="name">Explore</span>
+                        <span class="arrow"></span>
+                    </span>
+                    <ul class="sub-menu">
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/roadmap/">Roadmap
+                                </a>
+                            
+                            </li>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navexplorer.com">Block Explorer
+                                </a>
+                            
+                                <img src="https://d33wubrfki0l68.cloudfront.net/13bdcf7318515f26b86b121c9d4d08318c1d2069/bfe61/images/external-link-img.png" alt="external" class="external-link-img"> 
+                            
+                            </li>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navhub.org">NavHub
+                                </a>
+                            
+                                <img src="https://d33wubrfki0l68.cloudfront.net/13bdcf7318515f26b86b121c9d4d08318c1d2069/bfe61/images/external-link-img.png" alt="external" class="external-link-img"> 
+                            
+                            </li>
+                            
+                                <div class="hr-container">
+                                    <hr>
+                                </div>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/merchants/">Merchants
+                                </a>
+                            
+                            </li>
+                            
+                                <div class="hr-container">
+                                    <hr>
+                                </div>
+                            
+                        
+                            <li class="sub-menu-item ">
+                                <a href="https://navcoin.org/en/get-involved/">Get Involved
+                                </a>
+                            
+                            </li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+            
+                <li class="">
+                    <a class="menu-item nav-top-item" href="https://navcoin.org/en/notices/">
+                        
+                        <span class="name">News</span>
+                    </a>
+                </li>
+            
+        
+            
+                <li class="">
+                    <a class="menu-item nav-top-item" href="https://navcoin.org/en/community-fund/">
+                        
+                        <span class="name">Community Fund</span>
+                    </a>
+                </li>
+            
+        
+            
+                <li class="">
+                    <a class="menu-item nav-top-item" href="https://navcoin.org/en/wallets/">
+                        
+                        <span class="name">Wallets</span>
+                    </a>
+                </li>
+            
+        
+
+        <li class="">
+                <span class="nav-top-item menu-item">
+                    en  <span class="arrow"></span>
+                </span>     
+            <ul class="sub-menu">
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/en/">English</a></li>
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/es/">Español</a></li>
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/ru/">По-русски</a></li>
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/zh/">中文</a></li>
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/kr/">Korean</a></li>
+                
+                    <li class="active sub-menu-item"><a href="https://navcoin.org/jp/">日本語</a></li>
+                
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+        </div>
+        
+      </div>
+      
+  </nav>
+</header>
+
+
+
+  <div class="hero-section">
+    <img src="https://d33wubrfki0l68.cloudfront.net/43eab8c9d44027842bbff269fd23d7d5a9cec811/3cc50/images/notices/news-hero.svg" class="hero-img">
+    <div class="text-section-container">
+        <h1 class="">Protocol Notices</h1>
+        <p class="paragraph-text">NavCoin is an open source protocol to which anyone can contribute. The NavCoin Core developers have enacted a policy to provide fair opportunity for any interested party to review all changes they make to the NavCoin protocol prior to public release.</p>
+            <div>
+                <a href="https://github.com/NavCoin/navcoin-core/releases/latest" class="round-btn blue-btn" target="_blank">
+                    View Latest Release
+                    <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+            </div>    
+    </div>
+</div>
+
+
+
+
+
+
+<div class="appix-blog-content section-ptb-2">
+    <div class="container">
+      <div class="row">
+          <div class="col-sm-12 col-md-8">
+            
+            
+              <div class="blog-item">
+                  <a href="/en/notices/2018-12-17-navcoin-4-5-1-hard-fork/">
+                    <div class="blog-image" style="background-image:url(/images/uploads/navcoin-4.5.1-hardfork.png);">
+                      <div class="item-overlay"></div>
+                    </div>
+                  </a>
+                  <div class="blog-details">
+                              <h3><a href="/en/notices/2018-12-17-navcoin-4-5-1-hard-fork/">NavCoin 4.5.1 Hard Fork</a></h3>
+                              <ul class="blog-author-name">
+                                  <li><i class="fa fa-user-o"></i>Craig MacGregor</li>
+                                  <li>
+                                    <i class="fa fa-calendar"></i>
+                                      17 Dec 2018
+                                  </li>
+                              </ul>
+                              <ul class="blog-author-name">
+                                  
+                              </ul>
+                              <div class="blog-excerpt">
+                                
+                                  <p>NavCoin is hard forking at block <strong>2722100</strong> to mitigate an issue with the Community Fund expired proposal states. It is mandatory to update to NavCoin Core 4.5.1 before <strong>Friday 21 December at 00:00AM GMT</strong> to avoid network disruption.
+</p>
+                                
+                              </div>
+                              <div style="    
+                                display: flex;
+                                justify-content: space-between;
+                                 align-items: center;
+                                margin: 10px 0px 10px;">
+                              <a href="/en/notices/2018-12-17-navcoin-4-5-1-hard-fork/" class="round-btn gradient-btn" style="box-shadow: none;">Read More 
+                                    <img src=https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg class="btn-img"> </span></a>
+                              
+                              <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="share-icon">
+   <span>share on</span>
+   <ul class="social-icon">
+      <li>
+         <a class="twitter" href="https://twitter.com/intent/tweet?text=NavCoin%204.5.1%20Hard%20Fork&url=https://navcoin.org%2fen%2fnotices%2f2018-12-17-navcoin-4-5-1-hard-fork%2f&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+      </li>
+      <li>
+         <a class="facebook" href="https://facebook.com/sharer.php?u=https://navcoin.org%2fen%2fnotices%2f2018-12-17-navcoin-4-5-1-hard-fork%2f" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+      </li>
+      <li>
+         <a class="google" href="https://plus.google.com/share?url=https://navcoin.org%2fen%2fnotices%2f2018-12-17-navcoin-4-5-1-hard-fork%2f" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i></a>
+      </li>
+   </ul>
+</div>
+
+                            </div>
+                          </div>
+                </div>
+
+            
+              <div class="blog-item">
+                  <a href="/en/notices/2018-11-09-community-fund-locked-in-upgrade-now-mandatory/">
+                    <div class="blog-image" style="background-image:url(/images/uploads/community-fund-mandatory.png);">
+                      <div class="item-overlay"></div>
+                    </div>
+                  </a>
+                  <div class="blog-details">
+                              <h3><a href="/en/notices/2018-11-09-community-fund-locked-in-upgrade-now-mandatory/">Community Fund Locked-in, Upgrade Now Mandatory</a></h3>
+                              <ul class="blog-author-name">
+                                  <li><i class="fa fa-user-o"></i>Craig MacGregor</li>
+                                  <li>
+                                    <i class="fa fa-calendar"></i>
+                                      9 Nov 2018
+                                  </li>
+                              </ul>
+                              <ul class="blog-author-name">
+                                  
+                              </ul>
+                              <div class="blog-excerpt">
+                                
+                                  <p>The Community Fund soft fork has successfully passed network consensus with over 83% of blocks voting in favour of the consensus change on just the third voting period since version 4.4.0 was released.
+</p>
+                                
+                              </div>
+                              <div style="    
+                                display: flex;
+                                justify-content: space-between;
+                                 align-items: center;
+                                margin: 10px 0px 10px;">
+                              <a href="/en/notices/2018-11-09-community-fund-locked-in-upgrade-now-mandatory/" class="round-btn gradient-btn" style="box-shadow: none;">Read More 
+                                    <img src=https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg class="btn-img"> </span></a>
+                              
+                              <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="share-icon">
+   <span>share on</span>
+   <ul class="social-icon">
+      <li>
+         <a class="twitter" href="https://twitter.com/intent/tweet?text=Community%20Fund%20Locked-in%2c%20Upgrade%20Now%20Mandatory&url=https://navcoin.org%2fen%2fnotices%2f2018-11-09-community-fund-locked-in-upgrade-now-mandatory%2f&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+      </li>
+      <li>
+         <a class="facebook" href="https://facebook.com/sharer.php?u=https://navcoin.org%2fen%2fnotices%2f2018-11-09-community-fund-locked-in-upgrade-now-mandatory%2f" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+      </li>
+      <li>
+         <a class="google" href="https://plus.google.com/share?url=https://navcoin.org%2fen%2fnotices%2f2018-11-09-community-fund-locked-in-upgrade-now-mandatory%2f" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i></a>
+      </li>
+   </ul>
+</div>
+
+                            </div>
+                          </div>
+                </div>
+
+            
+              <div class="blog-item">
+                  <a href="/en/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/">
+                    <div class="blog-image" style="background-image:url(/images/uploads/2018-06-28.jpg);">
+                      <div class="item-overlay"></div>
+                    </div>
+                  </a>
+                  <div class="blog-details">
+                              <h3><a href="/en/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/">4.2.1 Soft Fork Now Locked In</a></h3>
+                              <ul class="blog-author-name">
+                                  <li><i class="fa fa-user-o"></i>Craig MacGregor</li>
+                                  <li>
+                                    <i class="fa fa-calendar"></i>
+                                      28 Jun 2018
+                                  </li>
+                              </ul>
+                              <ul class="blog-author-name">
+                                  
+                              </ul>
+                              <div class="blog-excerpt">
+                                
+                                  <p>The soft forks in version 4.2.1 have now achieved lock in with an 82% approval, and will soon activate two changes to NavCoin&rsquo;s consensus mechanism. All users are required to update to 4.2.1 by block 2237760 to remain connected to the network.
+</p>
+                                
+                              </div>
+                              <div style="    
+                                display: flex;
+                                justify-content: space-between;
+                                 align-items: center;
+                                margin: 10px 0px 10px;">
+                              <a href="/en/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/" class="round-btn gradient-btn" style="box-shadow: none;">Read More 
+                                    <img src=https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg class="btn-img"> </span></a>
+                              
+                              <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="share-icon">
+   <span>share on</span>
+   <ul class="social-icon">
+      <li>
+         <a class="twitter" href="https://twitter.com/intent/tweet?text=4.2.1%20Soft%20Fork%20Now%20Locked%20In&url=https://navcoin.org%2fen%2fnotices%2f2018-06-28-4-2-1-soft-fork-now-locked-in%2f&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+      </li>
+      <li>
+         <a class="facebook" href="https://facebook.com/sharer.php?u=https://navcoin.org%2fen%2fnotices%2f2018-06-28-4-2-1-soft-fork-now-locked-in%2f" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+      </li>
+      <li>
+         <a class="google" href="https://plus.google.com/share?url=https://navcoin.org%2fen%2fnotices%2f2018-06-28-4-2-1-soft-fork-now-locked-in%2f" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i></a>
+      </li>
+   </ul>
+</div>
+
+                            </div>
+                          </div>
+                </div>
+
+            
+            </div>
+            <div class="col-md-3 col-sm-12 col-md-offset-1">
+                <div class="sidebar">
+                    <div class="widget">
+                        <h3 class="widget-title">Notice Categories</h3>
+                        <ul>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/general-notices">general notices</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/mandatory-update">mandatory update</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/soft-fork">soft fork</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/minor-release">minor release</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/navpi">navpi</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/npip">npip</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/patch-navpi">patch navpi</a> </li>
+                          
+                            
+                              <li class="cat-item" ><a href="/en/notice_categories/release-candidates">release candidates</a> </li>
+                          
+                        </ul>
+                    </div>
+                    <div class="widget custom recent-posts">
+                        <h3 class="widget-title">Recent Notices</h3>
+                        <ul>
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2019-02-12-navcoin-4-5-2-hard-fork/">NavCoin 4.5.2 Hard Fork</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2019-01-23-fake-stake-vulnerabilities-resolved/">“Fake Stake” Vulnerabilities Resolved</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-12-17-navcoin-4-5-1-hard-fork/">NavCoin 4.5.1 Hard Fork</a></li>
+                                  
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-12-13-navcoin-core-4-5-0/">NavCoin Core 4.5.0</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-11-09-community-fund-locked-in-upgrade-now-mandatory/">Community Fund Locked-in, Upgrade Now Mandatory</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-10-24-navcoin-core-4-4-0/">NavCoin Core 4.4.0</a></li>
+                                  
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-09-04-navcoin-core-4-3-0/">NavCoin Core 4.3.0</a></li>
+                                  
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-08-18-npip004-static-block-reward/">NPIP004: Static Block Reward</a></li>
+                                  
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/">4.2.1 Soft Fork Now Locked In</a></li>
+                                  
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-06-11-navcoin-4-2-1-32bit-ntp-sync-hotfix/">NavCoin 4.2.1 - 32Bit NTP Sync Hotfix</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-06-06-navcoin-4-2-0-navpi-patch-notice/">NavCoin 4.2.0 NavPi Patch Notice</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-06-06-navcoin-4-2-0/">NavCoin 4.2.0</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                                  
+                                    <li><a href="/en/notices/2018-05-27-navcoin-core-4-2-0-release-candidate/">NavCoin Core 4.2.0 Release Candidate</a></li>
+                                  
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                                  
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="column">
+                    <a href="https://www.navcoin.org">
+                        <img class="footer-img" src="https://d33wubrfki0l68.cloudfront.net/7d52c63d7293450ab509460decf2201bcefeb292/d3cdb/images/nav_blue-trend.png" alt="navcoin logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="column">
+                    <div class="widget-title">
+                        <h3>Resources</h3>
+                    </div>
+                    <div class="widget-content">
+                        <ul>
+                            <li><a href="https://github.com/NAVCoin" target="_blank">GitHub</a></li>
+                            <li><a href="https://navhub.org/" target="_blank">NavHub</a></li>
+                            <li><a href="https://www.navexplorer.com" target="_blank">Block Explorer</a></li>
+                            <li><a href="https://info.navcoin.org/" target="_blank">Knowledge Base</a></li>
+                            <li><a href="https://navhub.org/news/" target="_blank">Latest News</a></li>
+                            <li><a href="https://info.navcoin.org/faq/" target="_blank">FAQ</a></li>
+                            <li><a href="https://navhub.org/roadmap/" target="_blank">Community Roadmap</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="column">
+                    <div class="widget-title">
+                        <h3>Social</h3>
+                    </div>
+                    <div class="widget-content">
+                        <ul>
+                            <li><a href="https://discordapp.com/invite/y4Vu9jw" target="_blank">Discord</a></li>
+                            <li><a href="https://www.reddit.com/r/NavCoin/" target="_blank">Reddit</a></li>
+                            <li><a href="https://twitter.com/NavCoin" target="_blank">Twitter</a></li>
+                            <li><a href="https://www.facebook.com/NAVCoin/" target="_blank">Facebook</a></li>
+                            <li><a href="https://collab.navcoin.org/" target="_blank">NavCollab</a></li>
+                            <li><a href="http://medium.com/nav-coin" target="_blank">Medium</a></li>
+                            <li><a href="https://www.youtube.com/NavCoinCore" target="_blank">Youtube</a></li>
+                            <li><a href="https://bitcointalk.org/index.php?topic=679791" target="_blank">BitcoinTalk</a></li>
+                            <li><a href="https://t.me/navcoin" target="_blank">Telegram</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="column">
+                    <div class="widget-title">
+                        <h3>Legal</h3>
+                    </div>
+                    <div class="widget-content">
+                        <ul>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="/terms-of-use">Terms of Use</a></li>
+                        </ul>
+                        <hr>
+                        <a href="https://opensource.org/licenses/mit-license.php" target="_blank"><p id="license">NavCoin released under the MIT license</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+@media (max-width:768px){
+    .col-xs-12 {
+    text-align: center;
+    }
+}    
+
+</style>
+
+
+
+<script src="/js/vendor/jquery-3.3.1.min.js"></script>
+
+
+<script src="/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
